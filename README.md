@@ -1,16 +1,16 @@
-## Hi there 👋
+```yaml
+developer:
+  name: Mike
+  role: Network & Systems Tinkerer / Maker
+  motto: "Why buy a turn-key solution when you can spend three weekends hosting it yourself?"
+  status: "Currently building something cool on GitHub 🚀"
+  
+tech_stack:
+  environments: [Docker, Linux, Home Assistant, Frigate]
+  networking: [VPNs, Infrastructure Migrations, Security]
+  scripting_&_tools: [JS / Bookmarklets, 3D Modeling (Blender)]
 
-<!--
-**SOSTRAX/SOSTRAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fun_facts:
+  - "Has a healthy obsession with local network visibility."
+  - "Appreciates well-engineered hardware and accurate market pricing."
+  - "Powered by clean hydration and low-profile setups."
